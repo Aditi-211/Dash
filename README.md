@@ -15,11 +15,11 @@ To install **Dash**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/aditi-211/dash.git
+sudo git clone https://github.com/Aditi-211/Dash.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/aditi-211/dash.git
+git clone https://github.com/Aditi-211/Dash.git
 ```
